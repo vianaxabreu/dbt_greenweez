@@ -13,6 +13,7 @@ dbt_project.yml
 README.md
 
 #target
+target/
 docs/graph.gpickle
 docs/partial_parse.msgpack
 docs/run_results.json
