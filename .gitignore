@@ -1,0 +1,13 @@
+# you shouldn't commit these into source control
+# these are the default directory names, adjust/add to fit your needs
+target/
+dbt_packages/
+logs/
+analyses/
+macros/
+models/
+seeds/
+snapshots/
+tests/
+dbt_project.yml
+README.md
