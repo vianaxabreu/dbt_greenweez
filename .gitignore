@@ -13,7 +13,7 @@ dbt_project.yml
 README.md
 
 #target
-target/graph.gpickle
-target/partial_parse.msgpack
-target/run_results.json
-target/semantic_manifest.json
+docs/graph.gpickle
+docs/partial_parse.msgpack
+docs/run_results.json
+docs/semantic_manifest.json
