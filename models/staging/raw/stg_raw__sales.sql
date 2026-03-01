@@ -10,5 +10,7 @@ with
 
     )
 
+# das ist nur ein kommentar
+
 select *
 from renamed
